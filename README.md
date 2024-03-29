@@ -6,7 +6,9 @@ Demo for tutorial
 
 📺 YouTube: https://www.youtube.com/watch?v=6wD3AXZy71M
 
-🚀 Demo: https://my-site-feeds.vercel.app/
+🚀 Demo: https://my-site-feeds.vercel.app/sitemap.xml
+🚀 Demo: https://my-site-feeds.vercel.app/feed.xml
+🚀 Demo: https://my-site-feeds.vercel.app/posts.json
 
 ## More tutorials and walkthroughs
 
